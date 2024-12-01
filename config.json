@@ -1,0 +1,20 @@
+{
+    "TOKEN": "MTI5MTgyMjAxNzM4NDgxMjY5NA.Gm5tNi.irsmEvmpu5NgSptd-D7mKQisAedX9kKWG34GlY",
+    "CHANNELS": [
+        {
+            "id": "1291823404281888770",
+            "delay": 7200,
+            "message": "Sell Vial at :Arrow: YHFH\nEctobone 5:WL: or\n4,7 have 200+\nLupus 5 :WL:\nFatty 5:WL: \nBrainworm 4:WL:\nChaos 15:WL:\nMoldy 18:WL:\n\nNot in Vend sold\n\nAuto cure malady cheap At :Arrow: YHFH",
+            "use_config_delay": false
+        }
+    ],
+    "LOG_WEBHOOK_URL": "https://discord.com/api/webhooks/1310287790734442567/HrfVHy-o8UXdag1z5kUrA3zEV9yVPZVu0L6lKOwmZNS2F8d2akhLeNgRV-iZCyFFjbIt",
+    "EMOJIS": {
+        "Status_Emoji": ":white_check_mark:",
+        "Uptime_Emoji": ":hourglass:",
+        "Channel_Emoji": ":mega:",
+        "Logs_Emoji": ":speech_balloon:",
+        "Message_Emoji": ":speech_left:"
+    },
+    "ENABLE_LOOP": true
+}
